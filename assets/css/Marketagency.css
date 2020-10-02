@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Background style */
+/* Background styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* main & sections styles */
 main {
     width: 75%;
     display: inline-block;
@@ -101,7 +101,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* sidebar styles */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -132,7 +132,7 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer styles */
 footer {
     padding: 30px;
     clear: both;
