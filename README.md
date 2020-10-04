@@ -7,7 +7,8 @@ This repository is a website for a Market Agency where potential clients get a w
 ## Horiseon
 <img src="./assets/images/HoriseonIMG.PNG">
 
-<a href="https://xicano619.github.io/Marketing-Agency/"
+<a href="https://xicano619.github.io/Marketing-Agency/">
+
 
 
 
