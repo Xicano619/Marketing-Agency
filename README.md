@@ -5,7 +5,10 @@ The code was refactored for Search Engine Optimization.
 This repository is a website for a Market Agency where potential clients get a wholistic overview of the agencies' specialization in the following areas: search engine optimization, online reputation management,and social media marketing. 
 
 ## Horiseon
-<img src="../assets/images/HoriseonIMG.PNG">
+<img src="./assets/images/HoriseonIMG.PNG">
+
+<a 
+
 
 
 This project came about for the purpose of refactoring the code (website) to make accessible. The following list will show the refactoring that was worked on:
